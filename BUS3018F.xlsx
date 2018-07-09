@@ -1,0 +1,389 @@
+RegAcadYear;AnonID;Course;Exam;Exemption;Deferred;Percent;Symbol;RegProgram;RegProgramDescr;Gender;Population Group;DEMOG;SA Citizenship Status;Repeat?
+2012;AAB0180;BUS3018F;32;0;0;41;F;CB003;BBusSc in Actuarial Science;F;Indian;Indian;P;FALSE
+2012;AAB0201;BUS3018F;31;0;0;41;F;CB003;BBusSc in Actuarial Science;F;Black;Black;P;FALSE
+2012;AAC0525;BUS3018F;41;0;0;43;F;CB019;BCom Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0152;BUS3018F;46;0;0;46;F;CB003;BBusSc in Actuarial Science;F;Black;International;F;FALSE
+2012;AAB0262;BUS3018F;46;0;0;47;F;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2012;AAC1003;BUS3018F;42;0;0;47;F;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2012;AAC0594;BUS3018F;48;0;0;48;F;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2012;AAB0175;BUS3018F;45;0;0;50;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;ACC0056;BUS3018F;44;0;0;50;3;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2012;ACC0186;BUS3018F;50;0;0;50;3;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2012;AAB0348;BUS3018F;45;0;0;50;3;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2012;AAC0460;BUS3018F;52;0;0;52;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0572;BUS3018F;45;0;0;52;3;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0718;BUS3018F;52;0;0;52;3;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0950;BUS3018F;52;0;0;52;3;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0180;BUS3018F;52;0;0;53;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0804;BUS3018F;52;0;0;53;3;CB003;BBusSc in Actuarial Science;F;Coloured;Coloured;C;FALSE
+2012;AAC0065;BUS3018F;53;0;0;54;3;CB003;BBusSc in Actuarial Science;M;Black;Black;P;FALSE
+2012;AAC0187;BUS3018F;49;0;0;54;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0390;BUS3018F;52;0;0;54;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0679;BUS3018F;54;0;0;54;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0660;BUS3018F;55;0;0;55;3;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2012;ACC0128;BUS3018F;50;0;0;55;3;CB019;BCom Actuarial Science;F;Indian;Indian;C;FALSE
+2012;AAC0996;BUS3018F;53;0;0;55;3;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0261;BUS3018F;51;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0285;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0685;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0882;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2012;AAC0905;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0958;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;F;Indian;International;F;FALSE
+2012;ACC0226;BUS3018F;53;0;0;57;3;CB019;BCom Actuarial Science;F;Indian;Indian;C;FALSE
+2012;AAB0202;BUS3018F;57;0;0;58;3;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2012;AAB0211;BUS3018F;57;0;0;58;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2012;AAC0136;BUS3018F;58;0;0;58;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0045;BUS3018F;57;0;0;59;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;ACC0088;BUS3018F;60;E;0;60;2-;CB019;BCom Actuarial Science;F;Coloured;Coloured;P;FALSE
+2012;AAC0395;BUS3018F;60;E;0;61;2-;CB003;BBusSc in Actuarial Science;F;Black;International;F;FALSE
+2012;AAC0429;BUS3018F;60;E;0;61;2-;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2012;ACC0175;BUS3018F;61;E;0;61;2-;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2012;AAC0040;BUS3018F;62;E;0;62;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0221;BUS3018F;63;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0346;BUS3018F;63;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0669;BUS3018F;63;E;0;64;2-;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0564;BUS3018F;63;E;0;66;2-;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0710;BUS3018F;64;E;0;66;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2012;AAC0885;BUS3018F;66;E;0;66;2-;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2012;AAC0912;BUS3018F;61;E;0;66;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0347;BUS3018F;64;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0436;BUS3018F;68;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0451;BUS3018F;69;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0942;BUS3018F;69;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2012;AAC0279;BUS3018F;66;E;0;70;2+;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2012;AAC0765;BUS3018F;70;E;0;70;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0841;BUS3018F;64;E;0;71;2+;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2012;AAC0211;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAB0267;BUS3018F;74;E;0;74;2+;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2012;AAC0023;BUS3018F;73;E;0;74;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0548;BUS3018F;74;E;0;74;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;ACC0192;BUS3018F;74;E;0;74;2+;CB019;BCom Actuarial Science;M;Indian;Indian;C;FALSE
+2012;AAC0698;BUS3018F;75;E;0;75;1;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2012;AAC0802;BUS3018F;77;E;0;77;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2012;AAC0955;BUS3018F;84;E;0;84;1;CB003;BBusSc in Actuarial Science;M;White;White;P;FALSE
+2012;AAC0714;BUS3018F;87;E;0;87;1;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAA0088;BUS3018F;43;0;0;41;F;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2013;AAA0108;BUS3018F;43;0;0;45;F;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAA0100;BUS3018F;44;0;0;46;F;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2013;AAB0353;BUS3018F;51;0;0;46;F;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0056;BUS3018F;49;0;0;50;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2013;AAB0297;BUS3018F;47;0;0;50;3;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2013;AAB0337;BUS3018F;48;0;0;50;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;P;FALSE
+2013;AAB0171;BUS3018F;60;E;0;51;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2013;AAB0040;BUS3018F;51;0;0;52;3;CB019;BCom Actuarial Science;M;Black;Black;C;FALSE
+2013;AAA0427;BUS3018F;48;0;0;52;3;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2013;AAA0064;BUS3018F;53;0;0;53;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAC0530;BUS3018F;54;0;0;53;3;CB019;BCom Actuarial Science;F;Non Applicable/Unknown;International;F;FALSE
+2013;AAB0064;BUS3018F;52;0;0;54;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2013;AAA0166;BUS3018F;60;E;0;55;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAA0210;BUS3018F;54;0;0;55;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2013;AAB0082;BUS3018F;60;E;0;55;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0157;BUS3018F;60;E;0;55;3;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2013;AAC0520;BUS3018F;52;0;0;55;3;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;Unknown;P;FALSE
+2013;AAB0237;BUS3018F;52;0;0;56;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2013;AAB0314;BUS3018F;60;E;0;56;3;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2013;AAC0753;BUS3018F;60;E;0;56;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0210;BUS3018F;62;E;0;57;3;CB018;BBusSc Actuarial Sc;M;Indian;Indian;C;FALSE
+2013;AAB0245;BUS3018F;54;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0281;BUS3018F;58;0;0;57;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAC0928;BUS3018F;63;E;0;58;3;CB019;BCom Actuarial Science;F;Black;Black;C;FALSE
+2013;AAB0248;BUS3018F;54;0;0;59;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0302;BUS3018F;60;E;0;59;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0221;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2013;AAB0349;BUS3018F;61;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0170;BUS3018F;61;E;0;61;2-;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2013;AAB0182;BUS3018F;68;E;0;61;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0179;BUS3018F;61;E;0;62;2-;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2013;AAB0239;BUS3018F;60;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2013;AAB0032;BUS3018F;66;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0243;BUS3018F;66;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0022;BUS3018F;73;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0359;BUS3018F;70;E;0;65;2-;CB003;BBusSc in Actuarial Science;F;Chinese;Chinese;C;FALSE
+2013;AAB0098;BUS3018F;69;E;0;67;2-;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2013;AAB0307;BUS3018F;66;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2013;AAB0322;BUS3018F;68;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0341;BUS3018F;67;E;0;68;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2013;AAB0125;BUS3018F;73;E;0;69;2-;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2013;AAB0354;BUS3018F;68;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0066;BUS3018F;73;E;0;71;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0025;BUS3018F;76;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0141;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;C;FALSE
+2013;AAB0151;BUS3018F;70;E;0;76;1;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2013;AAB0278;BUS3018F;75;E;0;80;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0006;BUS3018F;88;E;0;87;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2013;AAB0074;BUS3018F;90;E;0;89;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAB0305;BUS3018F;26;0;0;32;F;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2014;AAB0228;BUS3018F;36;0;0;39;F;CB019;BCom Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0191;BUS3018F;36;0;0;40;F;CB020;BCom Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAA0244;BUS3018F;40;0;0;40;F;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2014;AAA0342;BUS3018F;36;0;0;41;F;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0319;BUS3018F;40;0;0;42;F;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAA0363;BUS3018F;41;0;0;44;F;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0391;BUS3018F;39;0;0;46;F;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAB0205;BUS3018F;44;0;0;46;F;CB020;BCom Actuarial Sc;F;Black;Black;C;FALSE
+2014;AAA0101;BUS3018F;43;0;0;47;F;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0003;BUS3018F;50;0;0;50;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0053;BUS3018F;46;0;0;50;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0067;BUS3018F;48;0;0;50;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0237;BUS3018F;50;0;0;50;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0332;BUS3018F;44;0;0;50;3;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2014;AAB0253;BUS3018F;49;0;0;50;3;CB020;BCom Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAA0336;BUS3018F;49;0;0;51;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAB0291;BUS3018F;49;0;0;52;3;CB019;BCom Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0251;BUS3018F;53;0;0;53;3;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAA0042;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2014;AAA0091;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2014;AAA0146;BUS3018F;53;0;0;56;3;CB018;BBusSc Actuarial Sc;F;Black;Black;C;FALSE
+2014;AAA0151;BUS3018F;56;0;0;56;3;CB018;BBusSc Actuarial Sc;F;Coloured;Coloured;C;FALSE
+2014;AAA0305;BUS3018F;56;0;0;56;3;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAB0160;BUS3018F;56;0;0;56;3;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2014;AAA0417;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0226;BUS3018F;53;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;C;FALSE
+2014;AAA0301;BUS3018F;58;0;0;58;3;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2014;AAA0019;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0122;BUS3018F;56;0;0;60;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0373;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0208;BUS3018F;62;E;0;62;2-;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2014;AAA0265;BUS3018F;62;E;0;62;2-;CB003;BBusSc in Actuarial Science;M;Black;International;F;FALSE
+2014;AAA0112;BUS3018F;63;E;0;63;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0031;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0366;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0083;BUS3018F;66;E;0;66;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0169;BUS3018F;67;E;0;67;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0360;BUS3018F;69;E;0;69;2-;CB018;BBusSc Actuarial Sc;M;Black;Black;C;FALSE
+2014;AAA0375;BUS3018F;69;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2014;AAA0409;BUS3018F;69;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2014;AAB0200;BUS3018F;69;E;0;69;2-;CB019;BCom Actuarial Science;M;Black;Black;C;FALSE
+2014;AAA0185;BUS3018F;69;E;0;70;2+;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2014;AAA0341;BUS3018F;70;E;0;70;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0254;BUS3018F;71;E;0;71;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAB0041;BUS3018F;71;E;0;71;2+;CB019;BCom Actuarial Science;M;Indian;International;F;FALSE
+2014;AAA0379;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2014;AAA0397;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2014;AAA0097;BUS3018F;82;E;0;82;1;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2014;AAA0214;BUS3018F;83;E;0;84;1;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2015;AAC0182;BUS3018F;17;0;0;21;F;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2015;AAA0089;BUS3018F;31;0;0;34;F;CB020;BCom Act Sc 4 year programme;M;Coloured;Coloured;C;FALSE
+2015;AAA0189;BUS3018F;40;0;0;40;F;CB020;BCom Act Sc 4 year programme;M;Black;Black;C;FALSE
+2015;AAA0266;BUS3018F;40;0;0;40;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2015;AAA0281;BUS3018F;37;0;0;40;F;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;International;F;FALSE
+2015;AAA0163;BUS3018F;41;0;0;41;F;CB003;BBusSc in Actuarial Science;F;Black;Black;C;FALSE
+2015;AAA0055;BUS3018F;40;0;0;42;F;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2015;AAA0404;BUS3018F;42;0;0;42;F;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0221;BUS3018F;40;0;0;44;F;CB003;BBusSc in Actuarial Science;F;Black;International;F;FALSE
+2015;AAA0424;BUS3018F;44;0;0;44;F;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;C;FALSE
+2015;AAC0653;BUS3018F;44;0;0;45;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2015;AAA0105;BUS3018F;45;0;0;46;F;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2015;AAA0079;BUS3018F;47;0;0;47;F;CB018;BBusSc Act Sc 5 year programme;M;Indian;Indian;C;FALSE
+2015;AAA0143;BUS3018F;45;0;0;47;F;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2015;AAA0010;BUS3018F;44;0;0;48;F;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2015;AAA0047;BUS3018F;48;0;0;50;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2015;AAA0308;BUS3018F;50;0;0;50;3;CB019;BCom Actuarial Science;F;Black;Black;C;FALSE
+2015;AAA0364;BUS3018F;44;0;0;50;3;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;International;F;FALSE
+2015;AAA0008;BUS3018F;52;0;0;52;3;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2015;AAA0395;BUS3018F;43;0;0;52;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAC0380;BUS3018F;52;0;0;52;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0435;BUS3018F;51;0;0;52;3;CB003;BBusSc in Actuarial Science;F;Chinese;Chinese;C;FALSE
+2015;AAA0145;BUS3018F;53;0;0;53;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2015;AAA0178;BUS3018F;48;0;0;53;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0045;BUS3018F;48;0;0;54;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2015;AAA0199;BUS3018F;52;0;0;54;3;CB003;BBusSc in Actuarial Science;M;Black;Black;C;FALSE
+2015;AAC0930;BUS3018F;51;0;0;54;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0187;BUS3018F;53;0;0;55;3;CB003;BBusSc in Actuarial Science;F;Black;International;F;FALSE
+2015;AAA0411;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0058;BUS3018F;57;0;0;57;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0197;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0406;BUS3018F;54;0;0;57;3;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;C;FALSE
+2015;AAA0116;BUS3018F;58;0;0;58;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2015;AAA0322;BUS3018F;58;0;0;58;3;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2015;AAC0871;BUS3018F;58;0;0;58;3;CB018;BBusSc Act Sc 5 year programme;F;Coloured;Coloured;C;FALSE
+2015;AAC0387;BUS3018F;57;0;0;59;3;CB018;BBusSc Act Sc 5 year programme;F;Chinese;Chinese;C;FALSE
+2015;AAA0157;BUS3018F;55;0;0;60;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2015;AAC0580;BUS3018F;60;E;0;60;2-;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0127;BUS3018F;62;E;0;62;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2015;AAA0236;BUS3018F;60;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;P;FALSE
+2015;AAA0359;BUS3018F;61;E;0;64;2-;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;International;F;FALSE
+2015;AAC0043;BUS3018F;64;E;0;64;2-;CB018;BBusSc Act Sc 5 year programme;M;Indian;Indian;C;FALSE
+2015;AAA0434;BUS3018F;60;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;P;FALSE
+2015;AAA0006;BUS3018F;65;E;0;65;2-;CB018;BBusSc Act Sc 5 year programme;M;Coloured;Coloured;C;FALSE
+2015;AAA0061;BUS3018F;65;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0426;BUS3018F;64;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0173;BUS3018F;66;E;0;66;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0318;BUS3018F;66;E;0;66;2-;CB020;BCom Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2015;AAA0315;BUS3018F;65;E;0;67;2-;CB019;BCom Actuarial Science;F;White;White;P;FALSE
+2015;AAA0121;BUS3018F;68;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2015;AAC0049;BUS3018F;68;E;0;68;2-;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2015;AAA0399;BUS3018F;69;E;0;69;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0066;BUS3018F;69;E;0;71;2+;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;P;FALSE
+2015;AAA0124;BUS3018F;70;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0153;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;P;FALSE
+2015;AAA0377;BUS3018F;74;E;0;75;1;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2015;AAA0392;BUS3018F;74;E;0;75;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2015;AAA0016;BUS3018F;76;E;0;76;1;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2015;AAA0114;BUS3018F;75;E;0;76;1;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2015;AAA0149;BUS3018F;72;E;0;77;1;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;P;FALSE
+2015;AAA0387;BUS3018F;82;E;0;82;1;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2015;AAC0892;BUS3018F;87;E;0;87;1;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2015;AAA0077;BUS3018F;95;E;0;95;1;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2016;AAA0180;BUS3018F;23;0;0;32;F;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;P;FALSE
+2016;AAA0279;BUS3018F;33;0;0;34;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2016;AAA0218;BUS3018F;38;0;0;41;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2016;AAA0038;BUS3018F;41;0;0;43;F;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2016;AAA0335;BUS3018F;40;0;0;45;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2016;AAA0125;BUS3018F;45;0;0;50;3;CB018;BBusSc Act Sc 5 year programme;M;Coloured;Coloured;C;FALSE
+2016;AAA0069;BUS3018F;40;0;0;51;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0416;BUS3018F;45;0;0;51;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2016;AAA0170;BUS3018F;46;0;0;52;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2016;AAA0280;BUS3018F;50;0;0;52;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2016;AAA0412;BUS3018F;47;0;0;52;3;CB019;BCom Actuarial Science;F;Black;Black;C;FALSE
+2016;AAA0239;BUS3018F;50;0;0;53;3;CB003;BBusSc in Actuarial Science;M;Black;Black;P;FALSE
+2016;AAA0080;BUS3018F;51;0;0;54;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0325;BUS3018F;43;0;0;54;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0362;BUS3018F;51;0;0;54;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2016;AAA0071;BUS3018F;54;0;0;56;3;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2016;AAA0393;BUS3018F;49;0;0;56;3;CB018;BBusSc Act Sc 5 year programme;M;Indian;Indian;C;FALSE
+2016;EEF0057;BUS3018F;55;0;0;56;3;CB025;BBusSc Act Sc 4 year programme;M;Black;Black;C;FALSE
+2016;AAA0022;BUS3018F;53;0;0;57;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0227;BUS3018F;54;0;0;57;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2016;AAA0271;BUS3018F;56;0;0;57;3;CB019;BCom Actuarial Science;M;Black;Black;C;FALSE
+2016;AAA0299;BUS3018F;57;0;0;57;3;CB020;BCom Act Sc 4 year programme;M;Black;Black;C;FALSE
+2016;EEF0244;BUS3018F;53;0;0;57;3;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2016;AAA0044;BUS3018F;56;0;0;58;3;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2016;AAA0388;BUS3018F;56;0;0;58;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0398;BUS3018F;58;0;0;58;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0303;BUS3018F;57;0;0;61;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2016;EEF0514;BUS3018F;52;0;0;62;2-;CB025;BBusSc Act Sc 4 year programme;M;Non Applicable/Unknown;Unknown;C;FALSE
+2016;AAA0295;BUS3018F;59;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0018;BUS3018F;56;0;0;64;2-;CB003;BBusSc in Actuarial Science;M;Coloured;Coloured;C;FALSE
+2016;AAA0307;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2016;AAA0403;BUS3018F;64;E;0;64;2-;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2016;AAA0035;BUS3018F;63;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2016;AAA0206;BUS3018F;65;E;0;65;2-;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2016;AAA0331;BUS3018F;65;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0260;BUS3018F;64;E;0;66;2-;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2016;AAA0365;BUS3018F;64;E;0;66;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0024;BUS3018F;67;E;0;67;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2016;AAA0327;BUS3018F;62;E;0;67;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0314;BUS3018F;68;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0429;BUS3018F;68;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;C;FALSE
+2016;EEF0821;BUS3018F;59;E;0;69;2-;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2016;AAA0052;BUS3018F;67;E;0;70;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0284;BUS3018F;66;E;0;70;2+;CB019;BCom Actuarial Science;M;Black;Black;C;FALSE
+2016;AAA0329;BUS3018F;69;E;0;70;2+;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2016;AAA0425;BUS3018F;66;E;0;71;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0118;BUS3018F;63;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0027;BUS3018F;68;E;0;73;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0051;BUS3018F;73;E;0;73;2+;CB003;BBusSc in Actuarial Science;F;Coloured;Coloured;C;FALSE
+2016;AAA0168;BUS3018F;71;E;0;73;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0352;BUS3018F;70;E;0;73;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2016;AAA0082;BUS3018F;71;E;0;75;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0302;BUS3018F;72;E;0;75;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0433;BUS3018F;72;E;0;77;1;CB003;BBusSc in Actuarial Science;F;Chinese;Chinese;C;FALSE
+2016;AAA0113;BUS3018F;72;E;0;78;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;EEF0459;BUS3018F;79;E;0;79;1;CB025;BBusSc Act Sc 4 year programme;M;Black;Black;C;FALSE
+2016;AAA0171;BUS3018F;81;E;0;81;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2016;AAA0421;BUS3018F;83;E;0;83;1;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2016;EEF0660;BUS3018F;86;E;0;87;1;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2016;AAA0440;BUS3018F;84;E;0;88;1;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2016;EEF1035;BUS3018F;87;E;0;89;1;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2017;AAA0001;BUS3018F;36;0;0;42;F;CB019;BCom Actuarial Science;M;Coloured;Coloured;C;FALSE
+2017;AAA0084;BUS3018F;42;0;0;42;F;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2017;AAA0268;BUS3018F;43;0;0;43;F;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0025;BUS3018F;44;0;DE;44;F;CB020;BCom Act Sc 4 year programme;M;Black;Black;C;FALSE
+2017;AAA0351;BUS3018F;42;0;0;44;F;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2017;EEF0998;BUS3018F;39;0;0;46;F;CB026;BCom Act Sc 3 year programme;F;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0283;BUS3018F;47;0;0;47;F;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;P;FALSE
+2017;AAA0128;BUS3018F;46;0;0;48;F;CB018;BBusSc Act Sc 5 year programme;M;Coloured;Coloured;C;FALSE
+2017;AAA0165;BUS3018F;48;0;0;48;F;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2017;EEF0561;BUS3018F;48;0;0;48;F;CB025;BBusSc Act Sc 4 year programme;F;Black;Black;C;FALSE
+2017;EEF0881;BUS3018F;48;0;0;48;F;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2017;AAA0272;BUS3018F;50;0;0;50;3;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2017;AAA0288;BUS3018F;50;0;DE;50;3;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0172;BUS3018F;51;0;0;51;3;CB020;BCom Act Sc 4 year programme;F;Black;Black;C;FALSE
+2017;AAA0242;BUS3018F;51;0;0;51;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2017;AAA0350;BUS3018F;51;0;0;51;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;EEF0278;BUS3018F;51;0;0;51;3;CB025;BBusSc Act Sc 4 year programme;M;Indian;Indian;C;FALSE
+2017;AAA0111;BUS3018F;48;0;0;52;3;CB020;BCom Act Sc 4 year programme;F;Black;Black;C;FALSE
+2017;AAA0430;BUS3018F;46;0;0;52;3;CB020;BCom Act Sc 4 year programme;M;Black;Black;C;FALSE
+2017;EEF0291;BUS3018F;53;0;0;53;3;CB026;BCom Act Sc 3 year programme;M;Black;Black;C;FALSE
+2017;EEF0754;BUS3018F;52;0;0;53;3;CB025;BBusSc Act Sc 4 year programme;M;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0057;BUS3018F;54;0;0;54;3;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;International;F;FALSE
+2017;AAA0060;BUS3018F;54;0;0;54;3;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0062;BUS3018F;54;0;0;54;3;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0126;BUS3018F;53;0;0;54;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0132;BUS3018F;54;0;0;54;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0277;BUS3018F;53;0;0;54;3;CB018;BBusSc Act Sc 5 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0294;BUS3018F;48;0;0;54;3;CB020;BCom Act Sc 4 year programme;M;Black;Black;C;FALSE
+2017;AAA0410;BUS3018F;53;0;0;54;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;HII0017;BUS3018F;54;0;0;54;3;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0258;BUS3018F;53;0;0;55;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2017;AAA0317;BUS3018F;50;0;0;55;3;CB020;BCom Act Sc 4 year programme;M;Coloured;Coloured;C;FALSE
+2017;AAA0346;BUS3018F;55;0;0;55;3;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2017;AAA0015;BUS3018F;56;0;DE;56;3;CB018;BBusSc Act Sc 5 year programme;M;Indian;Indian;C;FALSE
+2017;AAA0040;BUS3018F;56;0;0;56;3;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2017;AAA0043;BUS3018F;55;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Black;Black;P;FALSE
+2017;AAA0275;BUS3018F;55;0;0;56;3;CB020;BCom Act Sc 4 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0324;BUS3018F;54;0;0;56;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0369;BUS3018F;54;0;0;56;3;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2017;AAA0389;BUS3018F;56;0;0;56;3;CB003;BBusSc in Actuarial Science;F;Chinese;Chinese;P;FALSE
+2017;AAA0123;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0353;BUS3018F;55;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0414;BUS3018F;57;0;0;57;3;CB020;BCom Act Sc 4 year programme;F;Coloured;Coloured;C;FALSE
+2017;AAC0430;BUS3018F;57;0;0;57;3;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0255;BUS3018F;56;0;0;58;3;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2017;EEF0206;BUS3018F;58;0;0;58;3;CB025;BBusSc Act Sc 4 year programme;F;Coloured;Coloured;C;FALSE
+2017;AAA0160;BUS3018F;56;0;0;59;3;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;AAA0092;BUS3018F;58;0;0;60;2-;CB020;BCom Act Sc 4 year programme;F;Indian;Indian;C;FALSE
+2017;AAA0119;BUS3018F;60;E;0;60;2-;CB020;BCom Act Sc 4 year programme;F;Black;Black;C;FALSE
+2017;AAA0133;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0195;BUS3018F;60;E;0;60;2-;CB018;BBusSc Act Sc 5 year programme;F;Black;Black;C;FALSE
+2017;AAA0408;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;EEF0988;BUS3018F;60;E;0;60;2-;CB026;BCom Act Sc 3 year programme;M;Black;Black;C;FALSE
+2017;AAA0431;BUS3018F;60;E;0;60;2-;CB003;BBusSc in Actuarial Science;M;Chinese;Chinese;C;FALSE
+2017;EEF0603;BUS3018F;61;E;0;61;2-;CB026;BCom Act Sc 3 year programme;F;Black;Black;C;FALSE
+2017;AAA0142;BUS3018F;63;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0188;BUS3018F;61;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2017;AAA0205;BUS3018F;61;E;0;63;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;AAA0276;BUS3018F;62;E;0;63;2-;CB018;BBusSc Act Sc 5 year programme;M;Indian;Indian;C;FALSE
+2017;AAA0401;BUS3018F;63;E;0;63;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;EEF0455;BUS3018F;63;E;0;63;2-;CB025;BBusSc Act Sc 4 year programme;M;Black;Black;C;FALSE
+2017;AAA0432;BUS3018F;62;E;0;63;2-;CB019;BCom Actuarial Science;M;Non Applicable/Unknown;International;F;FALSE
+2017;AAA0028;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;F;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0094;BUS3018F;60;E;0;64;2-;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2017;AAA0175;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;F;Indian;Indian;C;FALSE
+2017;AAA0209;BUS3018F;61;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0264;BUS3018F;64;E;0;64;2-;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0328;BUS3018F;64;E;0;64;2-;CB019;BCom Actuarial Science;F;White;White;C;FALSE
+2017;AAA0049;BUS3018F;65;E;0;65;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0339;BUS3018F;56;0;0;65;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;AAA0378;BUS3018F;65;E;0;65;2-;CB018;BBusSc Act Sc 5 year programme;M;Coloured;Coloured;C;FALSE
+2017;AAA0032;BUS3018F;64;E;0;66;2-;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2017;AAA0046;BUS3018F;66;E;0;66;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;AAA0073;BUS3018F;62;E;0;66;2-;CB026;BCom Act Sc 3 year programme;M;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0347;BUS3018F;65;E;0;66;2-;CB019;BCom Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0402;BUS3018F;66;E;0;66;2-;CB003;BBusSc in Actuarial Science;M;Non Applicable/Unknown;Unknown;C;FALSE
+2017;AAA0439;BUS3018F;62;E;0;66;2-;CB019;BCom Actuarial Science;M;White;White;C;FALSE
+2017;AAA0078;BUS3018F;58;0;0;67;2-;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;EEF1080;BUS3018F;65;E;0;67;2-;CB026;BCom Act Sc 3 year programme;F;Coloured;Coloured;C;FALSE
+2017;AAA0269;BUS3018F;58;0;0;68;2-;CB018;BBusSc Act Sc 5 year programme;M;Black;Black;C;FALSE
+2017;AAA0330;BUS3018F;67;E;0;68;2-;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0134;BUS3018F;71;E;0;71;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0072;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0320;BUS3018F;72;E;0;72;2+;CB003;BBusSc in Actuarial Science;M;Indian;Indian;C;FALSE
+2017;AAA0030;BUS3018F;74;E;0;75;1;CB019;BCom Actuarial Science;F;White;White;C;FALSE
+2017;AAA0050;BUS3018F;74;E;0;75;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0174;BUS3018F;74;E;0;75;1;CB003;BBusSc in Actuarial Science;F;White;White;C;FALSE
+2017;AAA0102;BUS3018F;69;E;0;76;1;CB019;BCom Actuarial Science;F;White;White;C;FALSE
+2017;AAA0131;BUS3018F;76;E;0;76;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+2017;AAA0056;BUS3018F;78;E;0;78;1;CB003;BBusSc in Actuarial Science;M;White;White;C;FALSE
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
