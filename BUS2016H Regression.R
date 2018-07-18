@@ -60,6 +60,14 @@ anova(res_2, res_5, test="Chisq") #p=0.496
 #the final model consists of Demograhpy, gender
 #protests is not a significant predictor variable
 
+res_6<-glm(Exemption~DEMOG+Gender+Gender*Protest, family=binomial(link='logit'))
+summary(res_6) #interaction term not significant (p=0.919)
+anova(res_2,res_6, test="Chisq") #p=0.1629
+
+res_7<-glm(Exemption~DEMOG+Gender+DEMOG*Protest, family=binomial(link='logit'))
+summary(res_7) #none of the interaction terms are significant
+anova(res_2,res_7, test="Chisq") #p=0.4
+
 
 res_all<-glm(Exemption~Protest+DEMOG+Gender+SA.Citizenship.Status+RegProgram, family=binomial(link='logit'))
 summary(res_all) #it seems whichever factor you put first, that will receive significance
