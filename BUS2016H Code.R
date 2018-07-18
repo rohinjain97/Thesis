@@ -2,6 +2,8 @@ rm(list = ls())
 
 BUS2016H_data=read.csv("BUS2016H.csv", header = TRUE, sep = ";" )
 attach(BUS2016H_data)
+#need to remove the NA observations
+BUS2016H_data<-na.omit(BUS2016H_data)
 
 ID = BUS2016H_data[2]
 exam_set = cbind(BUS2016H_data[1],BUS2016H_data[2], BUS2016H_data[4])
@@ -88,6 +90,9 @@ ks.test((exam_set_non_protests$Exam - mean(exam_set_non_protests$Exam))/sd(exam_
 
 shapiro.test(exam_set_protests$Exam)
 ks.test((exam_set_protests$Exam - mean(exam_set_protests$Exam))/sd(exam_set_protests$Exam), "pnorm")
+# ks.test(exam_set_protests$Exam.Mark,exam_set_non_protests$Exam.Mark) #shows same distribution
+
+
 #f the p-value is greater than the chosen alpha level, 
 #then the null hypothesis that the data came from a normally distributed population can not be rejected
 #seems that all are normally dbn except 2012 (and the protest data)
