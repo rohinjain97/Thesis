@@ -68,7 +68,8 @@ res_7<-glm(Exemption~DEMOG+Gender+DEMOG*Protest, family=binomial(link='logit'))
 summary(res_7) #none of the interaction terms are significant
 anova(res_2,res_7, test="Chisq") #p=0.4
 
+#it seems like res_2 is the best  
 
-res_all<-glm(Exemption~Protest+DEMOG+Gender+SA.Citizenship.Status+RegProgram, family=binomial(link='logit'))
+res_all<-glm(Exemption~DEMOG+Gender+Protest+SA.Citizenship.Status+RegProgram, family=binomial(link='logit'))
 summary(res_all) #it seems whichever factor you put first, that will receive significance
 anova(res_all, test="Chisq")
