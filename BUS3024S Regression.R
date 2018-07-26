@@ -60,7 +60,7 @@ AIC(res_b1,res_b2,res_b3,res_b4,res_b5)
 
 res_1<-glm(Exemption~DEMOG, family=binomial(link="logit"))
 summary(res_1)
-#Black, Indian and White are significant
+#black, coloured, indian and white are significant
 
 res_2.1<-glm(Exemption~DEMOG+Gender, family=binomial(link="logit"))
 res_2.2<-glm(Exemption~DEMOG+Deferred, family=binomial(link="logit"))
@@ -68,49 +68,43 @@ res_2.3<-glm(Exemption~DEMOG+RegProgram, family=binomial(link="logit"))
 res_2.4<-glm(Exemption~DEMOG+Protest, family=binomial(link="logit"))
 
 AIC(res_2.1,res_2.2,res_2.3,res_2.4)
-#res2.1 is best, hence Gender is most valuable here
+#res2.2 is best
 
-summary(res_2.1)
-#gender is significant at 5%
-anova(res_1, res_2.1, test="Chisq") #gender is significant
-#Male has coefficient of 0.5... this means ?
+summary(res_2.2)
+#deferred is not significant
+anova(res_1, res_2.2, test="Chisq")
+#p=0.1245
 
-res_3.1<-glm(Exemption~DEMOG+Gender+Deferred, family=binomial(link='logit'))
-res_3.2<-glm(Exemption~DEMOG+Gender+RegProgram, family=binomial(link='logit'))
-res_3.3<-glm(Exemption~DEMOG+Gender+Protest, family=binomial(link='logit'))
+res_3.1<-glm(Exemption~DEMOG+Gender, family=binomial(link='logit'))
+res_3.2<-glm(Exemption~DEMOG+RegProgram, family=binomial(link='logit'))
+res_3.3<-glm(Exemption~DEMOG+Protest, family=binomial(link='logit'))
 
 AIC(res_3.1,res_3.2, res_3.3)
-#res_3.1 is best, hence Deferred is the next most important thing
+#res_3.2, reg programe
 
 
-summary(res_3.1)
-#deferred is not significant. P value is 0.9853
+summary(res_3.2)
+#RP is not significant (p=0.4006)
+anova(res_1,res_3.2,test="Chisq") 
+#p=0.4013, res_1 is still better. 
 
-anova(res_2.1,res_3.1,test="Chisq") 
-#adding deferred is not significatn at 5% (p=0.07573)
-
-res_4.1<-glm(Exemption~DEMOG+Gender+RegProgram, family=binomial(link='logit'))
-res_4.2<-glm(Exemption~DEMOG+Gender+ Protest, family=binomial(link='logit'))
+res_4.1<-glm(Exemption~DEMOG+Gender, family=binomial(link='logit'))
+res_4.2<-glm(Exemption~DEMOG+Protest, family=binomial(link='logit'))
 
 AIC(res_4.1, res_4.2)
 #protests is only VERY slighly better
 
 summary(res_4.2) 
-#protest coefficient is not significant (p=0.37409)
-anova(res_2.1, res_4.2, test="Chisq") #adding protetsts is not significant at 10% (p=0.3737)
+#protest coefficient is not significant (p=0.62028)
+anova(res_1, res_4.2, test="Chisq") #adding protetsts is not significant at 10% (p=0.22)
+#not significant , p=0.6201
 
-
-res_5<-glm(Exemption~DEMOG+Gender+RegProgram, family=binomial(link='logit'))
+res_5<-glm(Exemption~DEMOG+Gender, family=binomial(link='logit'))
 summary(res_5)
-#not siginiicant (p=0.7541)
-anova(res_2.1, res_5, test = "Chisq" )
-#not significant (p=0.7542)
-
-#let us consider interaction terms:
-res_6<-glm(Exemption~DEMOG+Gender+DEMOG*Gender, family=binomial(link='logit'))
-summary(res_6) #none of the coefficients are significant
-anova(res_2.1, res_6, test="Chisq") #not siginifcatn (p=0.7977)
+#gender is not signficant
+anova(res_1, res_5, test = "Chisq" )
+#not significant, p=0.8854
 
 
-#the final model consists of Demograhpy, gender
+#the final model consists of Demograhpy
 #protests is not a significant predictor variable
