@@ -1,6 +1,6 @@
 rm(list = ls())
 
-BUS2016H_data=read.csv("BUS2016H.csv", header = TRUE, sep = ";" )
+BUS2016H_data=read.csv("BUS2016H.csv", header = TRUE, sep = ";" , na.strings = "")
 attach(BUS2016H_data)
 #need to remove the NA observations
 BUS2016H_data<-na.omit(BUS2016H_data)
@@ -53,7 +53,7 @@ boxplot(exam_set_2015$Exam)
 boxplot(exam_set_2016$Exam)
 boxplot(exam_set_2016$Exam)
 
-par(mfrow=c(1,1))
+par(mfrow=c(1,2))
 hist(exam_set_non_protests$Exam,freq = FALSE, breaks = 10)
 lines(density(exam_set_non_protests$Exam), col="red")
 lines(seq(-40, 400, by=.5), dnorm(seq(-40, 400, by=.5),mean(exam_set_non_protests$Exam), sd(exam_set_non_protests$Exam)), col="blue")
