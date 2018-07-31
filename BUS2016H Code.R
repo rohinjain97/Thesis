@@ -54,11 +54,11 @@ boxplot(exam_set_2016$Exam)
 boxplot(exam_set_2016$Exam)
 
 par(mfrow=c(1,2))
-hist(exam_set_non_protests$Exam,freq = FALSE, breaks = 10)
+hist(exam_set_non_protests$Exam,freq = FALSE, breaks = 10, xlab = "Marks", main = "Histogram of Non-Protest data")
 lines(density(exam_set_non_protests$Exam), col="red")
 lines(seq(-40, 400, by=.5), dnorm(seq(-40, 400, by=.5),mean(exam_set_non_protests$Exam), sd(exam_set_non_protests$Exam)), col="blue")
 
-hist(exam_set_protests$Exam,freq = FALSE, breaks = 10)
+hist(exam_set_protests$Exam,freq = FALSE, breaks = 10, xlab = "Marks", main = "Histogram of Protest data")
 lines(density(exam_set_protests$Exam), col="red")
 lines(seq(-40, 400, by=.5), dnorm(seq(-40, 400, by=.5),mean(exam_set_protests$Exam), sd(exam_set_protests$Exam)), col="blue")
 
@@ -92,6 +92,15 @@ shapiro.test(exam_set_protests$Exam)
 ks.test((exam_set_protests$Exam - mean(exam_set_protests$Exam))/sd(exam_set_protests$Exam), "pnorm")
 # ks.test(exam_set_protests$Exam.Mark,exam_set_non_protests$Exam.Mark) #shows same distribution
 
+library(car)
+qqPlot(exam_set_non_protests$Exam)
+qqPlot(exam_set_protests$Exam)
+
+wilcox.test(exam_set_protests$Exam,exam_set_non_protests$Exam)
+#the null hypothesis is that datasets come from the same distribution
+#the p value is the probability that (assuming the datasets come from
+#the same distribution) mean ranks being as far apart 
+#p value is 0.4652, which means you cannot reject the null hypothesis
 
 #f the p-value is greater than the chosen alpha level, 
 #then the null hypothesis that the data came from a normally distributed population can not be rejected
@@ -493,6 +502,14 @@ n1=(obs_exemption_2012+obs_exemption_2013+obs_exemption_2014)^(-1)
 n2= (obs_exemption_2016+obs_exemption_2017+obs_exemption_2015)^(-1)
 x = sqrt(pulled_prop*(1-pulled_prop)*(n1+n2))
 test_stat = (prop_non_portest_years-prop_protest_years)/(x) #thus no strong evedience to reject h0
+
+obs1 = number_exemption_2012+number_exemption_2013+number_exemption_2014
+obs2 = number_exemption_2016+number_exemption_2017+number_exemption_2015
+count1 = obs_exemption_2012+obs_exemption_2013+obs_exemption_2014
+count2 = obs_exemption_2016+obs_exemption_2017+obs_exemption_2015
+
+prop.test(c(obs1,obs2), c(count1,count2), alternative = "greater")
+
 
 exemption_set2 = cbind(BUS2016H_data[1],BUS2016H_data[2], BUS2016H_data[6],BUS2016H_data[9], BUS2016H_data[11], BUS2016H_data[12], BUS2016H_data[14])
 

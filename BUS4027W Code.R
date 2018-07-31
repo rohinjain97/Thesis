@@ -93,7 +93,9 @@ shapiro.test(exam_set_protests$Exam)
 ks.test((exam_set_protests$Exam - mean(exam_set_protests$Exam))/sd(exam_set_protests$Exam), "pnorm")
 # ks.test(exam_set_protests$Exam.Mark,exam_set_non_protests$Exam.Mark) #shows same distribution
 
+qqPlot(exam_set_protests$Exam)
 
+wilcox.test(exam_set_non_protests$Exam,exam_set_protests$Exam)
 #f the p-value is greater than the chosen alpha level, 
 #then the null hypothesis that the data came from a normally distributed population can not be rejected
 #seems that all are normally dbn except 2012 (and the protest data)
@@ -514,6 +516,14 @@ n1=(obs_exemption_2012+obs_exemption_2013+obs_exemption_2014)^(-1)
 n2= (obs_exemption_2016+obs_exemption_2017+obs_exemption_2015)^(-1)
 x = sqrt(pulled_prop*(1-pulled_prop)*(n1+n2))
 test_stat = (prop_non_portest_years-prop_protest_years)/(x) #thus no strong evedience to reject h0
+
+obs1 = number_exemption_2012+number_exemption_2013+number_exemption_2014
+obs2 = number_exemption_2016+number_exemption_2017+number_exemption_2015
+count1 = obs_exemption_2012+obs_exemption_2013+obs_exemption_2014
+count2 = obs_exemption_2016+obs_exemption_2017+obs_exemption_2015
+
+prop.test(c(obs1,obs2), c(count1,count2), alternative = "less")
+
 
 exemption_set2 = cbind(BUS4027W_data[1],BUS4027W_data[2], BUS4027W_data[6],BUS4027W_data[9], BUS4027W_data[11], BUS4027W_data[12], BUS4027W_data[14])
 

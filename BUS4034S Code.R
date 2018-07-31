@@ -54,7 +54,7 @@ boxplot(exam_set_2015$Exam)
 boxplot(exam_set_2016$Exam)
 boxplot(exam_set_2016$Exam)
 
-par(mfrow=c(1,1))
+par(mfrow=c(1,2))
 hist(exam_set_non_protests$Exam,freq = FALSE, breaks = 10)
 lines(density(exam_set_non_protests$Exam), col="red")
 lines(seq(-40, 400, by=.5), dnorm(seq(-40, 400, by=.5),mean(exam_set_non_protests$Exam), sd(exam_set_non_protests$Exam)), col="blue")
@@ -94,6 +94,7 @@ shapiro.test(exam_set_protests$Exam)
 ks.test((exam_set_protests$Exam - mean(exam_set_protests$Exam))/sd(exam_set_protests$Exam), "pnorm")
 # ks.test(exam_set_protests$Exam.Mark,exam_set_non_protests$Exam.Mark) #shows same distribution
 
+wilcox.test(exam_set_protests$Exam,exam_set_non_protests$Exam)
 
 #f the p-value is greater than the chosen alpha level, 
 #then the null hypothesis that the data came from a normally distributed population can not be rejected
@@ -475,6 +476,7 @@ prop_exemption_2017 = number_exemption_2017/obs_exemption_2017
 year = cbind(2012,2013,2014,2015,2016,2017)
 total_number_exemptions = cbind(number_exemption_2012,number_exemption_2013,number_exemption_2014,number_exemption_2015,number_exemption_2016,number_exemption_2017)
 
+
 total_prop_exemptions = cbind(prop_exemption_2012,prop_exemption_2013,prop_exemption_2014,prop_exemption_2015,prop_exemption_2016,prop_exemption_2017)
 
 par(mfrow=c(1,2))
@@ -485,7 +487,7 @@ par(mfrow=c(1,1))
 prop_protest_years = (number_exemption_2016+number_exemption_2017+number_exemption_2015)/(obs_exemption_2016+obs_exemption_2017+obs_exemption_2015)
 prop_non_portest_years = (number_exemption_2012+number_exemption_2013+number_exemption_2014)/(obs_exemption_2012+obs_exemption_2013+obs_exemption_2014)
 y=c(prop_protest_years,prop_non_portest_years)
-xx=barplot(as.numeric(y),ylim = c(0,0.6),names.arg = c("Protest years","No Protest years"),axisnames = TRUE )
+xx=barplot(as.numeric(y),ylim = c(0,1),names.arg = c("Protest years","No Protest years"),axisnames = TRUE )
 text(x = xx, y = y,labels = round(y,4), pos = 3, cex = 0.8, col = "red")
 
 pulled_prop = (number_exemption_2016+number_exemption_2017+number_exemption_2015+number_exemption_2012+number_exemption_2013+number_exemption_2014)/(obs_exemption_2012+obs_exemption_2013+obs_exemption_2014+obs_exemption_2016+obs_exemption_2017+obs_exemption_2015)
@@ -493,6 +495,14 @@ n1=(obs_exemption_2012+obs_exemption_2013+obs_exemption_2014)^(-1)
 n2= (obs_exemption_2016+obs_exemption_2017+obs_exemption_2015)^(-1)
 x = sqrt(pulled_prop*(1-pulled_prop)*(n1+n2))
 test_stat = (prop_non_portest_years-prop_protest_years)/(x) #thus no strong evedience to reject h0
+
+obs1 = number_exemption_2012+number_exemption_2013+number_exemption_2014
+obs2 = number_exemption_2016+number_exemption_2017+number_exemption_2015
+count1 = obs_exemption_2012+obs_exemption_2013+obs_exemption_2014
+count2 = obs_exemption_2016+obs_exemption_2017+obs_exemption_2015
+
+prop.test(c(obs1,obs2), c(count1,count2), alternative = "less")
+
 
 exemption_set2 = cbind(BUS4034S_data[1],BUS4034S_data[2], BUS4034S_data[6],BUS4034S_data[9], BUS4034S_data[11], BUS4034S_data[12], BUS4034S_data[14])
 
@@ -547,6 +557,10 @@ number_exemption_2017_female = length(exemption_set2_2017[which(exemption_set2_2
 number_exemption_2017_black = length(exemption_set2_2017[which(exemption_set2_2017$Population.Group == "Black"),1])
 number_exemption_2017_indian = length(exemption_set2_2017[which(exemption_set2_2017$Population.Group == "Indian"),1])
 number_exemption_2017_white = length(exemption_set2_2017[which(exemption_set2_2017$Population.Group == "White"),1])
+
+
+
+
 
 exemption_set2 = cbind(BUS4034S_data[1],BUS4034S_data[2], BUS4034S_data[6],BUS4034S_data[9], BUS4034S_data[11], BUS4034S_data[12], BUS4034S_data[14])
 

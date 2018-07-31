@@ -112,3 +112,4 @@ anova(res_3.1, res_6, test="Chisq") #p=0.8182
 
 #the final model consists of Demograhpy, gender and deferred
 #protests is not a significant predictor variable
+
